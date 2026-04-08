@@ -1,3 +1,17 @@
+
+![image alt](https://github.com/MrFaizahmed/student-management-system/blob/a995b8d3c299dc90cb49e21d97adaa6a8f7e57f1/Screenshot%202026-04-08%20193928.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # Student Management System
 
 A complete student management system built with Python, Django, and MySQL database.
@@ -261,4 +275,3 @@ For issues or questions:
 3. Check MySQL documentation: https://dev.mysql.com/doc/
 
 
-![image alt](https://github.com/MrFaizahmed/student-management-system/blob/a995b8d3c299dc90cb49e21d97adaa6a8f7e57f1/Screenshot%202026-04-08%20193928.png)
