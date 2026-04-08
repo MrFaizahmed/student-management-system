@@ -1,5 +1,6 @@
 
 ![image alt](https://github.com/MrFaizahmed/student-management-system/blob/a995b8d3c299dc90cb49e21d97adaa6a8f7e57f1/Screenshot%202026-04-08%20193928.png)
+![image alt](https://github.com/MrFaizahmed/student-management-system/blob/b5b29f9f3251eee94f335e9688d9ff70be40471f/Screenshot%202026-04-08%20194034.png)
 
 
 
