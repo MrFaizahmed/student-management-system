@@ -259,3 +259,6 @@ For issues or questions:
 1. Check `MYSQL_SETUP_GUIDE.md` for detailed database setup
 2. Review Django documentation: https://docs.djangoproject.com/
 3. Check MySQL documentation: https://dev.mysql.com/doc/
+
+
+![image alt](https://github.com/MrFaizahmed/student-management-system/blob/a995b8d3c299dc90cb49e21d97adaa6a8f7e57f1/Screenshot%202026-04-08%20193928.png)
